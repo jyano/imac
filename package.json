@@ -1,0 +1,23 @@
+{
+  "name": "wappy",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "connect": "*",
+    "connect-flash": "*",
+    "connect-mongo": "*",
+    "cookie-parser": "*",
+    "express": "*",
+    "express-session": "*",
+    "jade": "*",
+    "method-override": "*",
+    "mongoose": "^4.3.7",
+    "multer": "*",
+    "session.socket.io": "*",
+    "socket.io": "*"
+  }
+}
